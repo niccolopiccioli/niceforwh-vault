@@ -3,7 +3,7 @@ tags: [ai-skill, vfx, animation, combat, type/guide, level/intermediate]
 ---
 # Skill - Roblox VFX Combo
 
-**Procedura operativa** per rifare una combo anime come ThunderCombo (carica → 3 colpi → salto → schianto) con le risorse di questo vault. È la sintesi di quello che ha funzionato davvero in Place1 (**Misurato**) e delle regole dei pack (**Dal pack**).
+**Procedura operativa** per fare una combo anime con VFX (carica → colpi → salto → schianto) con le risorse di questo vault. Nasce dall'esperimento ThunderCombo: prendine le regole e gli errori da evitare, non copiarne lo stile. È la sintesi di quello che ha funzionato davvero in Place1 (**Misurato**) e delle regole dei pack (**Dal pack**).
 
 <!-- tldr:start -->
 > [!tldr] TL;DR

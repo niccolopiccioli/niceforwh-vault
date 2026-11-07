@@ -3,6 +3,9 @@ tags: [hub, project, thundercombo, type/hub]
 ---
 # ThunderCombo Hub
 
+> [!note] Esperimento
+> ThunderCombo è un esperimento fatto in Place1 per provare le risorse del vault: utile come caso di studio (cosa ha funzionato, errori da non rifare), **non** è il modello da seguire. Per lavorare parti dal metodo generale: [[VFX Method - Principles and Pipeline]], [[Kit Emitters - Reference Sheet]], [[Combat Timing Cheat Sheet]], [[Impact Frames Hitstop and Camera]].
+
 Combo anime elettrica sul rig R6 `Workspace.TemplateR6` di **Place1**: carica, tre colpi (diretto, montante, calcio circolare), salto, salto mortale in aria, picchiata e schianto con cratere. Animazione in KeyframeSequence (formato Moon Animator) + VFX client-side sincronizzati con i marker. Quattro versioni (v1 → v4); la v4 applica i principi della knowledge base di questo vault.
 
 ![[09 ThunderCombo/Screenshots/v4/5_calcio_profilo.jpg|560]]

@@ -3,7 +3,7 @@ tags: [hub, vfx, audio, type/hub]
 ---
 # VFX and Audio Hub
 
-Tutto quello che riguarda effetti, particelle, texture VFX e suoni, unito da: kit PDS, Reference Library fwjelaa, metodo VFX, ThunderCombo.
+Tutto quello che riguarda effetti, particelle, texture VFX e suoni, unito da: kit PDS, Reference Library fwjelaa, metodo VFX (più l'esperimento ThunderCombo come caso di studio).
 
 ## Note
 - [[PDS Particles and Models Kit]]: il kit `.rbxm` (34 emitter, ~70 mesh), cosa contiene e come è stato importato

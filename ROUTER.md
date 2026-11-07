@@ -6,7 +6,7 @@ tags: [index, router, type/hub]
 Cerco X → vado a Y. Una riga per bisogno; il percorso completo di ogni nota è in [[INDEX]] (o [[INDEX_SLIM]]). Per la knowledge base fwjelaa c'è il suo [[08 Knowledge/fwjelaa-vault/fwjelaa vault/ROUTER|router]].
 
 ## Combo, VFX, animazione
-- combo anime completa, hitstop, impact frame, camera → [[Skill - Roblox VFX Combo]]; [[ThunderCombo Hub]]
+- combo anime completa, hitstop, impact frame, camera → [[Skill - Roblox VFX Combo]]; esperimento di riferimento (caso di studio, non modello): [[ThunderCombo Hub]]
 - emitter pronti (anelli, burst, fumo, scintille), ID texture → [[Kit Emitters - Reference Sheet]]
 - mesh per shockwave, rocce, cratere → [[Kit Meshes - Reference Sheet]]
 - impact frame, hitstop, shake, slow-mo → [[Impact Frames Hitstop and Camera]]

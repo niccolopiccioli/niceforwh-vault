@@ -14,7 +14,7 @@ Questo vault mette insieme, **per tema e non per pack di provenienza**, tutte le
 ## Percorsi di lettura
 
 **Voglio rifare una combo con VFX:**
-[[Skill - Roblox VFX Combo]] → [[Combat Timing Cheat Sheet]] → [[Kit Emitters - Reference Sheet]] → [[Kit Meshes - Reference Sheet]] → [[Impact Frames Hitstop and Camera]] → [[ThunderCombo - Timing and Markers]]
+[[VFX Method - Principles and Pipeline]] → [[Combat Timing Cheat Sheet]] → [[Kit Emitters - Reference Sheet]] → [[Kit Meshes - Reference Sheet]] → [[Impact Frames Hitstop and Camera]] → [[Skill - Roblox VFX Combo]] (caso di studio: [[ThunderCombo Hub|ThunderCombo]], esperimento)
 
 **Voglio capire i VFX:**
 [[VFX and Audio Hub]] → [[VFX Method - Principles and Pipeline]] → [[PDS Particles and Models Kit]] → [[08 Knowledge/fwjelaa-vault/fwjelaa vault/07 Lighting VFX and Audio/VFX Design Playbook|VFX Design Playbook (fwjelaa)]]
@@ -43,7 +43,7 @@ Questo vault mette insieme, **per tema e non per pack di provenienza**, tutte le
 | `06 Studio Kits` | tutti i `.rbxm`/`.rbxmx`, divisi per uso (VFX, UI, Animations) |
 | `07 Tools and Pipelines` | i progetti con codice, **lasciati interi**: animation pack, MapKit, Picture-to-Model, UI kit |
 | `08 Knowledge` | il vault fwjelaa completo (plugin compreso) e il repo roblox-ai, **lasciati interi** |
-| `09 ThunderCombo` | note di progetto, ID, timing, screenshot v1-v4 |
+| `09 ThunderCombo` | esperimento (caso di studio, non modello): note di progetto, ID, timing, screenshot v1-v4 |
 | `_assets` · `_data` · `_tools` · `_originali` | immagini del vault · inventari, piano, log, duplicati · script di manutenzione · archivi originali intatti |
 
 ## Il vault fwjelaa dentro questo vault

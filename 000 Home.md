@@ -7,7 +7,7 @@ tags: [hub, type/hub, level/beginner]
 > # niceforwh vault
 > **Tutto quello che serve per fare combo, VFX, animazioni, mappe e UI su Roblox**, unito per tema: kit Studio, texture, icone, modelli, riferimenti, tool e la knowledge base fwjelaa.
 >
-> [[00 Start Here|Inizia qui]] · [[ROUTER|Cerco X, dove vado?]] · [[Skill - Roblox VFX Combo|Rifai una combo come ThunderCombo]]
+> [[00 Start Here|Inizia qui]] · [[ROUTER|Cerco X, dove vado?]] · [[VFX Method - Principles and Pipeline|Metodo VFX]]
 >
 > `3135 icone` `1459 riferimenti UI` `34 emitter del kit` `76 personaggi .glb` `45 animazioni R6/R15` `4 mappe d'esempio` `7114 file di knowledge fwjelaa` `2210 SFX CC0` `14381 file del repo roblox-ai`
 
@@ -17,10 +17,10 @@ tags: [hub, type/hub, level/beginner]
 > - [[Models and Characters Hub|Modelli]]
 > - [[Maps and World Hub|Mappe]]
 > - [[UI and Icons Hub|UI]]
-> - [[ThunderCombo Hub|ThunderCombo]]
+> - [[Studio Kits Hub|Kit Studio]]
 
 > [!fw-strip] Parti in 60 secondi
-> **Fare una combo** → [[Skill - Roblox VFX Combo]] · [[Kit Emitters - Reference Sheet]] · [[Combat Timing Cheat Sheet]] · [[ThunderCombo - Timing and Markers]]
+> **Fare VFX e animazioni** → [[VFX Method - Principles and Pipeline]] · [[Kit Emitters - Reference Sheet]] · [[Combat Timing Cheat Sheet]] · [[Impact Frames Hitstop and Camera]]
 > **Importare roba in sicurezza** → [[Skill - Safe Asset Intake]] · [[Studio Kits Hub]] · [[Vault Maintenance Tools]]
 > **Trovare un riferimento** → [[UI Style References]] · [[VFX Reference Images]] · [[Anime Character GLB Pack]] · [[MapKit Example Maps]] · [[Game Refs (roblox-ai)]]
 > **Trovare un suono** → [[CC0 SFX Library (roblox-ai)]] (impatti, pugni, whoosh, cariche, esplosioni, UI)
