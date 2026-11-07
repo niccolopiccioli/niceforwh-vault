@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "-path:\"08 Knowledge/fwjelaa-vault\" -path:_originali",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"01 VFX\"",
+      "color": {
+        "a": 1,
+        "rgb": 5301503
+      }
+    },
+    {
+      "query": "path:\"02 Animation\"",
+      "color": {
+        "a": 1,
+        "rgb": 9848575
+      }
+    },
+    {
+      "query": "path:\"09 ThunderCombo\"",
+      "color": {
+        "a": 1,
+        "rgb": 16766720
+      }
+    },
+    {
+      "query": "tag:#type/hub",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.508761885579257,
+  "close": false
+}

@@ -1,0 +1,12 @@
+# Archivi originali dei pack: pesanti e già estratti nelle cartelle tematiche
+_originali/
+
+# Stato locale di Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash/
+
+# File di sistema
+Thumbs.db
+desktop.ini
+.DS_Store

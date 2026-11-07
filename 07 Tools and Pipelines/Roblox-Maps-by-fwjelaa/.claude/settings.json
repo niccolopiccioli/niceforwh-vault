@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python kit/tools/run.py:*)",
+      "Bash(python3 kit/tools/run.py:*)",
+      "Bash(py -3 kit/tools/run.py:*)",
+      "Read(maps/**)",
+      "Read(kit/**)",
+      "Read(styles/**)",
+      "Read(research/**)",
+      "Read(ref/**)",
+      "Edit(maps/**)",
+      "Write(maps/**)"
+    ]
+  }
+}

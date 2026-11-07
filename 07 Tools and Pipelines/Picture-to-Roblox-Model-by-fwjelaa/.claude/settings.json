@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python kit/run.py:*)",
+      "Bash(python3 kit/run.py:*)",
+      "Bash(py -3 kit/run.py:*)",
+      "Bash(python -m pip install pillow)",
+      "Bash(python3 -m pip install pillow)",
+      "Read(ref/**)",
+      "Read(out/**)",
+      "Read(build/**)",
+      "Read(kit/**)",
+      "Edit(build/**)",
+      "Write(build/**)",
+      "Write(ref/**)"
+    ]
+  }
+}

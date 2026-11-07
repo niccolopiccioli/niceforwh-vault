@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python kit/run.py:*)",
+      "Bash(python3 kit/run.py:*)",
+      "Bash(py -3 kit/run.py:*)",
+      "Bash(python kit/serve.py:*)",
+      "Bash(python3 kit/serve.py:*)",
+      "Bash(py -3 kit/serve.py:*)",
+      "Read(anims/**)",
+      "Read(out/**)",
+      "Read(kit/**)",
+      "Read(roblox/**)",
+      "Read(research/**)",
+      "Read(ref/**)",
+      "Edit(anims/**)",
+      "Write(anims/**)"
+    ]
+  }
+}

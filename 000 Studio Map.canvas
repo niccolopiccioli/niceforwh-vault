@@ -1,0 +1,398 @@
+{
+ "nodes": [
+  {
+   "id": "g1",
+   "type": "group",
+   "label": "Motion & FX",
+   "x": -760,
+   "y": -40,
+   "width": 680,
+   "height": 600,
+   "color": "5"
+  },
+  {
+   "id": "g2",
+   "type": "group",
+   "label": "World, UI & Kits",
+   "x": 120,
+   "y": -40,
+   "width": 680,
+   "height": 600,
+   "color": "4"
+  },
+  {
+   "id": "g3",
+   "type": "group",
+   "label": "Project & Knowledge",
+   "x": -320,
+   "y": 620,
+   "width": 1020,
+   "height": 420,
+   "color": "6"
+  },
+  {
+   "id": "home",
+   "type": "file",
+   "file": "000 Home.md",
+   "x": -160,
+   "y": -360,
+   "width": 340,
+   "height": 200,
+   "color": "1"
+  },
+  {
+   "id": "start",
+   "type": "file",
+   "file": "00 Start Here.md",
+   "x": 260,
+   "y": -360,
+   "width": 300,
+   "height": 160
+  },
+  {
+   "id": "router",
+   "type": "file",
+   "file": "ROUTER.md",
+   "x": -560,
+   "y": -360,
+   "width": 300,
+   "height": 160
+  },
+  {
+   "id": "vfx",
+   "type": "file",
+   "file": "01 VFX and Audio/VFX and Audio Hub.md",
+   "x": -740,
+   "y": 0,
+   "width": 300,
+   "height": 160,
+   "color": "5"
+  },
+  {
+   "id": "em",
+   "type": "file",
+   "file": "01 VFX and Audio/Kit Emitters - Reference Sheet.md",
+   "x": -400,
+   "y": 0,
+   "width": 300,
+   "height": 160
+  },
+  {
+   "id": "me",
+   "type": "file",
+   "file": "01 VFX and Audio/Kit Meshes - Reference Sheet.md",
+   "x": -400,
+   "y": 200,
+   "width": 300,
+   "height": 160
+  },
+  {
+   "id": "anim",
+   "type": "file",
+   "file": "02 Animation/Animation Hub.md",
+   "x": -740,
+   "y": 200,
+   "width": 300,
+   "height": 160,
+   "color": "5"
+  },
+  {
+   "id": "tim",
+   "type": "file",
+   "file": "02 Animation/Combat Timing Cheat Sheet.md",
+   "x": -740,
+   "y": 380,
+   "width": 300,
+   "height": 160
+  },
+  {
+   "id": "ifr",
+   "type": "file",
+   "file": "01 VFX and Audio/Impact Frames Hitstop and Camera.md",
+   "x": -400,
+   "y": 380,
+   "width": 300,
+   "height": 160
+  },
+  {
+   "id": "mod",
+   "type": "file",
+   "file": "03 Models and Characters/Models and Characters Hub.md",
+   "x": 140,
+   "y": 0,
+   "width": 300,
+   "height": 160,
+   "color": "4"
+  },
+  {
+   "id": "maps",
+   "type": "file",
+   "file": "04 Maps and World/Maps and World Hub.md",
+   "x": 480,
+   "y": 0,
+   "width": 300,
+   "height": 160,
+   "color": "4"
+  },
+  {
+   "id": "ui",
+   "type": "file",
+   "file": "05 UI and Icons/UI and Icons Hub.md",
+   "x": 140,
+   "y": 200,
+   "width": 300,
+   "height": 160,
+   "color": "4"
+  },
+  {
+   "id": "kits",
+   "type": "file",
+   "file": "06 Studio Kits/Studio Kits Hub.md",
+   "x": 480,
+   "y": 200,
+   "width": 300,
+   "height": 160,
+   "color": "4"
+  },
+  {
+   "id": "tools",
+   "type": "file",
+   "file": "07 Tools and Pipelines/Tools and Pipelines Hub.md",
+   "x": 140,
+   "y": 380,
+   "width": 300,
+   "height": 160
+  },
+  {
+   "id": "safe",
+   "type": "file",
+   "file": "Skill - Safe Asset Intake.md",
+   "x": 480,
+   "y": 380,
+   "width": 300,
+   "height": 160,
+   "color": "2"
+  },
+  {
+   "id": "tc",
+   "type": "file",
+   "file": "09 ThunderCombo/ThunderCombo Hub.md",
+   "x": -300,
+   "y": 660,
+   "width": 300,
+   "height": 160,
+   "color": "6"
+  },
+  {
+   "id": "skill",
+   "type": "file",
+   "file": "Skill - Roblox VFX Combo.md",
+   "x": 40,
+   "y": 660,
+   "width": 300,
+   "height": 160,
+   "color": "2"
+  },
+  {
+   "id": "know",
+   "type": "file",
+   "file": "08 Knowledge/Knowledge Hub.md",
+   "x": -300,
+   "y": 850,
+   "width": 300,
+   "height": 160,
+   "color": "6"
+  },
+  {
+   "id": "log",
+   "type": "file",
+   "file": "_data/riorganizzazione-log.md",
+   "x": 40,
+   "y": 850,
+   "width": 300,
+   "height": 160
+  },
+  {
+   "id": "rai",
+   "type": "file",
+   "file": "08 Knowledge/roblox-ai Reference Library.md",
+   "x": 380,
+   "y": 850,
+   "width": 300,
+   "height": 160,
+   "color": "6"
+  },
+  {
+   "id": "sfx",
+   "type": "file",
+   "file": "01 VFX and Audio/CC0 SFX Library (roblox-ai).md",
+   "x": 380,
+   "y": 660,
+   "width": 300,
+   "height": 160
+  }
+ ],
+ "edges": [
+  {
+   "id": "e0",
+   "fromNode": "home",
+   "fromSide": "bottom",
+   "toNode": "start",
+   "toSide": "top"
+  },
+  {
+   "id": "e1",
+   "fromNode": "home",
+   "fromSide": "bottom",
+   "toNode": "router",
+   "toSide": "top"
+  },
+  {
+   "id": "e2",
+   "fromNode": "home",
+   "fromSide": "bottom",
+   "toNode": "vfx",
+   "toSide": "top"
+  },
+  {
+   "id": "e3",
+   "fromNode": "home",
+   "fromSide": "bottom",
+   "toNode": "mod",
+   "toSide": "top"
+  },
+  {
+   "id": "e4",
+   "fromNode": "vfx",
+   "fromSide": "bottom",
+   "toNode": "em",
+   "toSide": "top"
+  },
+  {
+   "id": "e5",
+   "fromNode": "vfx",
+   "fromSide": "bottom",
+   "toNode": "me",
+   "toSide": "top"
+  },
+  {
+   "id": "e6",
+   "fromNode": "vfx",
+   "fromSide": "bottom",
+   "toNode": "ifr",
+   "toSide": "top"
+  },
+  {
+   "id": "e7",
+   "fromNode": "anim",
+   "fromSide": "bottom",
+   "toNode": "tim",
+   "toSide": "top"
+  },
+  {
+   "id": "e8",
+   "fromNode": "tim",
+   "fromSide": "bottom",
+   "toNode": "ifr",
+   "toSide": "top"
+  },
+  {
+   "id": "e9",
+   "fromNode": "mod",
+   "fromSide": "bottom",
+   "toNode": "maps",
+   "toSide": "top"
+  },
+  {
+   "id": "e10",
+   "fromNode": "ui",
+   "fromSide": "bottom",
+   "toNode": "kits",
+   "toSide": "top"
+  },
+  {
+   "id": "e11",
+   "fromNode": "kits",
+   "fromSide": "bottom",
+   "toNode": "safe",
+   "toSide": "top"
+  },
+  {
+   "id": "e12",
+   "fromNode": "tools",
+   "fromSide": "bottom",
+   "toNode": "safe",
+   "toSide": "top"
+  },
+  {
+   "id": "e13",
+   "fromNode": "skill",
+   "fromSide": "bottom",
+   "toNode": "em",
+   "toSide": "top"
+  },
+  {
+   "id": "e14",
+   "fromNode": "skill",
+   "fromSide": "bottom",
+   "toNode": "tim",
+   "toSide": "top"
+  },
+  {
+   "id": "e15",
+   "fromNode": "skill",
+   "fromSide": "bottom",
+   "toNode": "tc",
+   "toSide": "top"
+  },
+  {
+   "id": "e16",
+   "fromNode": "tc",
+   "fromSide": "bottom",
+   "toNode": "know",
+   "toSide": "top"
+  },
+  {
+   "id": "e17",
+   "fromNode": "know",
+   "fromSide": "bottom",
+   "toNode": "tools",
+   "toSide": "top"
+  },
+  {
+   "id": "e18",
+   "fromNode": "log",
+   "fromSide": "bottom",
+   "toNode": "safe",
+   "toSide": "top"
+  },
+  {
+   "id": "e19",
+   "fromNode": "know",
+   "fromSide": "bottom",
+   "toNode": "rai",
+   "toSide": "top"
+  },
+  {
+   "id": "e20",
+   "fromNode": "rai",
+   "fromSide": "bottom",
+   "toNode": "sfx",
+   "toSide": "top"
+  },
+  {
+   "id": "e21",
+   "fromNode": "vfx",
+   "fromSide": "bottom",
+   "toNode": "sfx",
+   "toSide": "top"
+  },
+  {
+   "id": "e22",
+   "fromNode": "rai",
+   "fromSide": "bottom",
+   "toNode": "safe",
+   "toSide": "top"
+  }
+ ]
+}

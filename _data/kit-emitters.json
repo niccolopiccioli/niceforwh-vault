@@ -1,0 +1,4140 @@
+[
+{
+"Acceleration": [
+0.0,
+0.0,
+0.0
+],
+"AttributesSerialize": "",
+"Brightness": 1.0,
+"Color": [
+[
+0.0,
+1.0,
+0.298,
+0.3098,
+0.0
+],
+[
+1.0,
+1.0,
+0.298,
+0.3098,
+0.0
+]
+],
+"DefinesCapabilities": false,
+"Drag": 0.0,
+"EmissionDirection": 1,
+"Enabled": true,
+"FlipbookBlendFrames": true,
+"FlipbookFramerate": [
+1.0,
+1.0
+],
+"FlipbookIncompatible": "Particle texture must be 1024 by 1024 to use flipbooks.",
+"FlipbookLayout": 0,
+"FlipbookMode": 0,
+"FlipbookSizeX": 1,
+"FlipbookSizeY": 1,
+"FlipbookStartRandom": false,
+"Lifetime": [
+1.0,
+2.0
+],
+"LightEmission": 1.0,
+"LightInfluence": 0.0,
+"LockedToPart": false,
+"Name": "ParticleEmitter",
+"Orientation": 2,
+"Rate": 20.0,
+"RotSpeed": [
+0.0,
+0.0
+],
+"Rotation": [
+90.0,
+90.0
+],
+"SerializedOverrides": "",
+"Shape": 1,
+"ShapeInOut": 1,
+"ShapePartial": 1.0,
+"ShapeStyle": 0,
+"Size": [
+[
+0.0,
+1.0,
+0.0
+],
+[
+1.0,
+1.0,
+0.0
+]
+],
+"Speed": [
+5.0,
+5.0
+],
+"SpreadAngle": [
+0.0,
+0.0
+],
+"Squash": [
+[
+0.0,
+0.5,
+0.0
+],
+[
+1.0,
+0.5,
+0.0
+]
+],
+"Texture": "rbxassetid://7216855914",
+"TimeScale": 1.0,
+"Transparency": [
+[
+0.0,
+1.0,
+0.0
+],
+[
+0.4981,
+0.0,
+0.0
+],
+[
+1.0,
+1.0,
+0.0
+]
+],
+"VelocityInheritance": 0.0,
+"WindAffectsDrag": false,
+"ZOffset": 0.0,
+"_class": "ParticleEmitter",
+"_path": "PDS' Particles & Models Kit/PDS Models Pack for BSED:R/Presets/Samples/Pigs Particle Pack V5/Part/ParticleEmitter",
+"_ref": 15946
+},
+{
+"Acceleration": [
+0.0,
+0.0,
+0.0
+],
+"AttributesSerialize": "",
+"Brightness": 2.0,
+"Color": [
+[
+0.0,
+0.3216,
+0.7608,
+1.0,
+0.0
+],
+[
+1.0,
+0.3216,
+0.7608,
+1.0,
+0.0
+]
+],
+"DefinesCapabilities": false,
+"Drag": 0.0,
+"EmissionDirection": 1,
+"Enabled": true,
+"FlipbookBlendFrames": true,
+"FlipbookFramerate": [
+1.0,
+1.0
+],
+"FlipbookIncompatible": "Particle texture must be 1024 by 1024 to use flipbooks.",
+"FlipbookLayout": 2,
+"FlipbookMode": 1,
+"FlipbookSizeX": 1,
+"FlipbookSizeY": 1,
+"FlipbookStartRandom": false,
+"Lifetime": [
+2.0,
+2.0
+],
+"LightEmission": 1.0,
+"LightInfluence": 0.0,
+"LockedToPart": false,
+"Name": "ParticleEmitter",
+"Orientation": 3,
+"Rate": 3.0,
+"RotSpeed": [
+-10.0,
+10.0
+],
+"Rotation": [
+-180.0,
+180.0
+],
+"SerializedOverrides": "",
+"Shape": 0,
+"ShapeInOut": 0,
+"ShapePartial": 1.0,
+"ShapeStyle": 0,
+"Size": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+10.0,
+0.0
+]
+],
+"Speed": [
+0.01,
+0.01
+],
+"SpreadAngle": [
+0.0,
+0.0
+],
+"Squash": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+0.0,
+0.0
+]
+],
+"Texture": "rbxassetid://16502428362",
+"TimeScale": 1.0,
+"Transparency": [
+[
+0.0,
+1.0,
+0.0
+],
+[
+0.5,
+0.6,
+0.0
+],
+[
+1.0,
+1.0,
+0.0
+]
+],
+"VelocityInheritance": 0.0,
+"WindAffectsDrag": false,
+"ZOffset": 0.0,
+"_class": "ParticleEmitter",
+"_path": "PDS' Particles & Models Kit/PDS Models Pack for BSED:R/Presets/Samples/Pigs Particle Pack V5/Part/Attachment/ParticleEmitter",
+"_ref": 15950
+},
+{
+"Acceleration": [
+0.0,
+0.0,
+0.0
+],
+"AttributesSerialize": "",
+"Brightness": 1.0,
+"Color": [
+[
+0.0,
+1.0,
+0.4,
+0.4,
+0.0
+],
+[
+1.0,
+1.0,
+0.4,
+0.4,
+0.0
+]
+],
+"DefinesCapabilities": false,
+"Drag": 0.0,
+"EmissionDirection": 1,
+"Enabled": true,
+"FlipbookBlendFrames": true,
+"FlipbookFramerate": [
+1.0,
+1.0
+],
+"FlipbookIncompatible": "Particle texture must be 1024 by 1024 to use flipbooks.",
+"FlipbookLayout": 0,
+"FlipbookMode": 0,
+"FlipbookSizeX": 1,
+"FlipbookSizeY": 1,
+"FlipbookStartRandom": false,
+"Lifetime": [
+2.0,
+2.0
+],
+"LightEmission": 1.0,
+"LightInfluence": 0.0,
+"LockedToPart": false,
+"Name": "ParticleEmitter",
+"Orientation": 3,
+"Rate": 100.0,
+"RotSpeed": [
+0.0,
+0.0
+],
+"Rotation": [
+-180.0,
+180.0
+],
+"SerializedOverrides": "",
+"Shape": 0,
+"ShapeInOut": 0,
+"ShapePartial": 1.0,
+"ShapeStyle": 0,
+"Size": [
+[
+0.0,
+1.1875,
+0.0
+],
+[
+1.0,
+11.4275,
+0.0
+]
+],
+"Speed": [
+0.01,
+0.01
+],
+"SpreadAngle": [
+-360.0,
+360.0
+],
+"Squash": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+0.0,
+1.6721
+]
+],
+"Texture": "rbxassetid://14049993216",
+"TimeScale": 1.0,
+"Transparency": [
+[
+0.0,
+0.7875,
+0.0
+],
+[
+1.0,
+1.0,
+0.0
+]
+],
+"VelocityInheritance": 0.0,
+"WindAffectsDrag": false,
+"ZOffset": 0.0,
+"_class": "ParticleEmitter",
+"_path": "PDS' Particles & Models Kit/PDS Models Pack for BSED:R/Presets/Samples/Pigs Particle Pack V5/Part/ParticleEmitter",
+"_ref": 15954
+},
+{
+"Acceleration": [
+0.0,
+0.0,
+0.0
+],
+"AttributesSerialize": "",
+"Brightness": 1.0,
+"Color": [
+[
+0.0,
+0.1098,
+0.3765,
+1.0,
+0.0
+],
+[
+1.0,
+0.1098,
+0.3765,
+1.0,
+0.0
+]
+],
+"DefinesCapabilities": false,
+"Drag": 0.0,
+"EmissionDirection": 1,
+"Enabled": true,
+"FlipbookBlendFrames": true,
+"FlipbookFramerate": [
+1.0,
+1.0
+],
+"FlipbookIncompatible": "Particle texture must be 1024 by 1024 to use flipbooks.",
+"FlipbookLayout": 0,
+"FlipbookMode": 0,
+"FlipbookSizeX": 1,
+"FlipbookSizeY": 1,
+"FlipbookStartRandom": false,
+"Lifetime": [
+3.0,
+5.0
+],
+"LightEmission": 1.0,
+"LightInfluence": 0.0,
+"LockedToPart": false,
+"Name": "ParticleEmitter",
+"Orientation": 3,
+"Rate": 20.0,
+"RotSpeed": [
+0.0,
+0.0
+],
+"Rotation": [
+-180.0,
+180.0
+],
+"SerializedOverrides": "",
+"Shape": 0,
+"ShapeInOut": 0,
+"ShapePartial": 1.0,
+"ShapeStyle": 0,
+"Size": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+10.7906,
+0.0
+]
+],
+"Speed": [
+0.01,
+0.01
+],
+"SpreadAngle": [
+-360.0,
+360.0
+],
+"Squash": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+0.0,
+0.7541
+]
+],
+"Texture": "rbxassetid://8315450991",
+"TimeScale": 1.0,
+"Transparency": [
+[
+0.0,
+0.4,
+0.0
+],
+[
+1.0,
+1.0,
+0.0
+]
+],
+"VelocityInheritance": 0.0,
+"WindAffectsDrag": false,
+"ZOffset": 0.0,
+"_class": "ParticleEmitter",
+"_path": "PDS' Particles & Models Kit/PDS Models Pack for BSED:R/Presets/Samples/Pigs Particle Pack V5/Part/Attachment/ParticleEmitter",
+"_ref": 15958
+},
+{
+"Acceleration": [
+0.0,
+0.0,
+0.0
+],
+"AttributesSerialize": "",
+"Brightness": 1.0,
+"Color": [
+[
+0.0,
+1.0,
+1.0,
+1.0,
+0.0
+],
+[
+1.0,
+1.0,
+1.0,
+1.0,
+0.0
+]
+],
+"DefinesCapabilities": false,
+"Drag": 0.0,
+"EmissionDirection": 1,
+"Enabled": true,
+"FlipbookBlendFrames": true,
+"FlipbookFramerate": [
+1.0,
+1.0
+],
+"FlipbookIncompatible": "Particle texture must be 1024 by 1024 to use flipbooks.",
+"FlipbookLayout": 0,
+"FlipbookMode": 0,
+"FlipbookSizeX": 1,
+"FlipbookSizeY": 1,
+"FlipbookStartRandom": false,
+"Lifetime": [
+2.0,
+3.0
+],
+"LightEmission": 0.0,
+"LightInfluence": 1.0,
+"LockedToPart": false,
+"Name": "ParticleEmitter",
+"Orientation": 0,
+"Rate": 20.0,
+"RotSpeed": [
+-100.0,
+100.0
+],
+"Rotation": [
+-180.0,
+180.0
+],
+"SerializedOverrides": "",
+"Shape": 0,
+"ShapeInOut": 0,
+"ShapePartial": 1.0,
+"ShapeStyle": 0,
+"Size": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+0.5006,
+0.5625,
+0.0
+],
+[
+1.0,
+0.0,
+0.0
+]
+],
+"Speed": [
+3.0,
+3.0
+],
+"SpreadAngle": [
+-180.0,
+180.0
+],
+"Squash": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+0.0,
+0.0
+]
+],
+"Texture": "http://www.roblox.com/asset/?id=12222002958",
+"TimeScale": 1.0,
+"Transparency": [
+[
+0.0,
+1.0,
+0.0
+],
+[
+0.4981,
+0.0,
+0.0
+],
+[
+1.0,
+1.0,
+0.0
+]
+],
+"VelocityInheritance": 0.0,
+"WindAffectsDrag": false,
+"ZOffset": 0.0,
+"_class": "ParticleEmitter",
+"_path": "PDS' Particles & Models Kit/PDS Models Pack for BSED:R/Presets/Samples/Pigs Particle Pack V5/Part/Attachment/ParticleEmitter",
+"_ref": 15963
+},
+{
+"Acceleration": [
+0.0,
+0.0,
+0.0
+],
+"AttributesSerialize": "",
+"Brightness": 1.0,
+"Color": [
+[
+0.0,
+0.7137,
+0.5137,
+0.1098,
+0.0
+],
+[
+1.0,
+0.7137,
+0.5137,
+0.1098,
+0.0
+]
+],
+"DefinesCapabilities": false,
+"Drag": 0.0,
+"EmissionDirection": 1,
+"Enabled": true,
+"FlipbookBlendFrames": true,
+"FlipbookFramerate": [
+1.0,
+1.0
+],
+"FlipbookIncompatible": "Particle texture must be 1024 by 1024 to use flipbooks.",
+"FlipbookLayout": 0,
+"FlipbookMode": 0,
+"FlipbookSizeX": 1,
+"FlipbookSizeY": 1,
+"FlipbookStartRandom": false,
+"Lifetime": [
+5.0,
+5.0
+],
+"LightEmission": 1.0,
+"LightInfluence": 0.0,
+"LockedToPart": false,
+"Name": "ParticleEmitter",
+"Orientation": 3,
+"Rate": 20.0,
+"RotSpeed": [
+0.0,
+0.0
+],
+"Rotation": [
+-180.0,
+180.0
+],
+"SerializedOverrides": "",
+"Shape": 0,
+"ShapeInOut": 0,
+"ShapePartial": 1.0,
+"ShapeStyle": 0,
+"Size": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+12.429,
+0.0
+]
+],
+"Speed": [
+0.01,
+0.01
+],
+"SpreadAngle": [
+-360.0,
+360.0
+],
+"Squash": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+0.0,
+1.0164
+]
+],
+"Texture": "rbxassetid://8890667599",
+"TimeScale": 1.0,
+"Transparency": [
+[
+0.0,
+0.4,
+0.0
+],
+[
+1.0,
+1.0,
+0.0
+]
+],
+"VelocityInheritance": 0.0,
+"WindAffectsDrag": false,
+"ZOffset": 0.0,
+"_class": "ParticleEmitter",
+"_path": "PDS' Particles & Models Kit/PDS Models Pack for BSED:R/Presets/Samples/Pigs Particle Pack V5/Part/Attachment/ParticleEmitter",
+"_ref": 15968
+},
+{
+"Acceleration": [
+0.0,
+0.0,
+0.0
+],
+"AttributesSerialize": "",
+"Brightness": 2.0,
+"Color": [
+[
+0.0,
+1.0,
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+1.0,
+0.0,
+0.0,
+0.0
+]
+],
+"DefinesCapabilities": false,
+"Drag": 0.0,
+"EmissionDirection": 1,
+"Enabled": true,
+"FlipbookBlendFrames": true,
+"FlipbookFramerate": [
+1.0,
+1.0
+],
+"FlipbookIncompatible": "Particle texture must be 1024 by 1024 to use flipbooks.",
+"FlipbookLayout": 0,
+"FlipbookMode": 0,
+"FlipbookSizeX": 1,
+"FlipbookSizeY": 1,
+"FlipbookStartRandom": false,
+"Lifetime": [
+2.0,
+3.0
+],
+"LightEmission": 1.0,
+"LightInfluence": 0.0,
+"LockedToPart": false,
+"Name": "ParticleEmitter",
+"Orientation": 2,
+"Rate": 20.0,
+"RotSpeed": [
+0.0,
+0.0
+],
+"Rotation": [
+90.0,
+90.0
+],
+"SerializedOverrides": "",
+"Shape": 0,
+"ShapeInOut": 0,
+"ShapePartial": 1.0,
+"ShapeStyle": 0,
+"Size": [
+[
+0.0,
+0.5,
+0.0
+],
+[
+1.0,
+1.5625,
+0.0
+]
+],
+"Speed": [
+3.0,
+3.0
+],
+"SpreadAngle": [
+180.0,
+180.0
+],
+"Squash": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+0.0,
+0.0
+]
+],
+"Texture": "rbxassetid://7216847852",
+"TimeScale": 1.0,
+"Transparency": [
+[
+0.0,
+1.0,
+0.0
+],
+[
+0.5,
+0.0,
+0.0
+],
+[
+1.0,
+1.0,
+0.0
+]
+],
+"VelocityInheritance": 0.0,
+"WindAffectsDrag": false,
+"ZOffset": 0.0,
+"_class": "ParticleEmitter",
+"_path": "PDS' Particles & Models Kit/PDS Models Pack for BSED:R/Presets/Samples/Pigs Particle Pack V5/Part/Attachment/ParticleEmitter",
+"_ref": 15972
+},
+{
+"Acceleration": [
+0.0,
+0.0,
+0.0
+],
+"AttributesSerialize": "",
+"Brightness": 0.015,
+"Color": [
+[
+0.0,
+1.0,
+0.9569,
+0.4902,
+0.0
+],
+[
+1.0,
+1.0,
+0.9569,
+0.4902,
+0.0
+]
+],
+"DefinesCapabilities": false,
+"Drag": 0.0,
+"EmissionDirection": 1,
+"Enabled": true,
+"FlipbookBlendFrames": true,
+"FlipbookFramerate": [
+1.0,
+1.0
+],
+"FlipbookIncompatible": "Particle texture must be 1024 by 1024 to use flipbooks.",
+"FlipbookLayout": 0,
+"FlipbookMode": 1,
+"FlipbookSizeX": 1,
+"FlipbookSizeY": 1,
+"FlipbookStartRandom": false,
+"Lifetime": [
+5.0,
+5.0
+],
+"LightEmission": 1.0,
+"LightInfluence": 0.0,
+"LockedToPart": false,
+"Name": "ParticleEmitter",
+"Orientation": 3,
+"Rate": 50.0,
+"RotSpeed": [
+10.0,
+10.0
+],
+"Rotation": [
+0.0,
+0.0
+],
+"SerializedOverrides": "",
+"Shape": 0,
+"ShapeInOut": 0,
+"ShapePartial": 1.0,
+"ShapeStyle": 0,
+"Size": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+0.5,
+4.6328,
+0.0
+],
+[
+1.0,
+0.0,
+0.0
+]
+],
+"Speed": [
+0.6,
+0.6
+],
+"SpreadAngle": [
+0.0,
+0.0
+],
+"Squash": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+0.0,
+0.0
+]
+],
+"Texture": "rbxassetid://17426661930",
+"TimeScale": 1.0,
+"Transparency": [
+[
+0.0,
+1.0,
+0.0
+],
+[
+0.5,
+0.8,
+0.0
+],
+[
+1.0,
+1.0,
+0.0
+]
+],
+"VelocityInheritance": 0.0,
+"WindAffectsDrag": false,
+"ZOffset": 0.0,
+"_class": "ParticleEmitter",
+"_path": "PDS' Particles & Models Kit/PDS Models Pack for BSED:R/Presets/Samples/Pigs Particle Pack V5/Part/Attachment/ParticleEmitter",
+"_ref": 15976
+},
+{
+"Acceleration": [
+0.0,
+0.0,
+0.0
+],
+"AttributesSerialize": "",
+"Brightness": 1.0,
+"Color": [
+[
+0.0,
+0.3843,
+1.0,
+0.4039,
+0.0
+],
+[
+1.0,
+0.3843,
+1.0,
+0.4039,
+0.0
+]
+],
+"DefinesCapabilities": false,
+"Drag": 0.0,
+"EmissionDirection": 1,
+"Enabled": true,
+"FlipbookBlendFrames": true,
+"FlipbookFramerate": [
+1.0,
+1.0
+],
+"FlipbookIncompatible": "Particle texture must be 1024 by 1024 to use flipbooks.",
+"FlipbookLayout": 0,
+"FlipbookMode": 0,
+"FlipbookSizeX": 1,
+"FlipbookSizeY": 1,
+"FlipbookStartRandom": false,
+"Lifetime": [
+2.0,
+2.0
+],
+"LightEmission": 1.0,
+"LightInfluence": 0.0,
+"LockedToPart": false,
+"Name": "ParticleEmitter",
+"Orientation": 0,
+"Rate": 20.0,
+"RotSpeed": [
+0.0,
+0.0
+],
+"Rotation": [
+-180.0,
+180.0
+],
+"SerializedOverrides": "",
+"Shape": 0,
+"ShapeInOut": 0,
+"ShapePartial": 1.0,
+"ShapeStyle": 0,
+"Size": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+10.0,
+0.0
+]
+],
+"Speed": [
+0.01,
+0.01
+],
+"SpreadAngle": [
+-360.0,
+360.0
+],
+"Squash": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+0.0,
+1.377
+]
+],
+"Texture": "rbxassetid://14049993216",
+"TimeScale": 1.0,
+"Transparency": [
+[
+0.0,
+0.75,
+0.0
+],
+[
+1.0,
+1.0,
+0.0
+]
+],
+"VelocityInheritance": 0.0,
+"WindAffectsDrag": false,
+"ZOffset": 0.0,
+"_class": "ParticleEmitter",
+"_path": "PDS' Particles & Models Kit/PDS Models Pack for BSED:R/Presets/Samples/Pigs Particle Pack V5/Part/Attachment/ParticleEmitter",
+"_ref": 15980
+},
+{
+"Acceleration": [
+0.0,
+0.0,
+0.0
+],
+"AttributesSerialize": "",
+"Brightness": 10.0,
+"Color": [
+[
+0.0,
+0.9725,
+1.0,
+0.4353,
+0.0
+],
+[
+1.0,
+0.9725,
+1.0,
+0.4353,
+0.0
+]
+],
+"DefinesCapabilities": false,
+"Drag": 0.0,
+"EmissionDirection": 1,
+"Enabled": true,
+"FlipbookBlendFrames": true,
+"FlipbookFramerate": [
+1.0,
+1.0
+],
+"FlipbookIncompatible": "Particle texture must be 1024 by 1024 to use flipbooks.",
+"FlipbookLayout": 0,
+"FlipbookMode": 0,
+"FlipbookSizeX": 1,
+"FlipbookSizeY": 1,
+"FlipbookStartRandom": false,
+"Lifetime": [
+1.0,
+1.0
+],
+"LightEmission": 1.0,
+"LightInfluence": 0.0,
+"LockedToPart": true,
+"Name": "star",
+"Orientation": 0,
+"Rate": 10.0,
+"RotSpeed": [
+0.0,
+0.0
+],
+"Rotation": [
+0.0,
+0.0
+],
+"SerializedOverrides": "",
+"Shape": 0,
+"ShapeInOut": 0,
+"ShapePartial": 1.0,
+"ShapeStyle": 0,
+"Size": [
+[
+0.0,
+13.2213,
+0.0
+],
+[
+1.0,
+20.0,
+0.0
+]
+],
+"Speed": [
+0.01,
+0.01
+],
+"SpreadAngle": [
+-2.0,
+2.0
+],
+"Squash": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+0.0,
+1.377
+]
+],
+"Texture": "rbxassetid://7216849325",
+"TimeScale": 1.0,
+"Transparency": [
+[
+0.0,
+1.0,
+0.0
+],
+[
+0.4994,
+0.0,
+0.0
+],
+[
+1.0,
+1.0,
+0.0
+]
+],
+"VelocityInheritance": 0.0,
+"WindAffectsDrag": false,
+"ZOffset": 0.0,
+"_class": "ParticleEmitter",
+"_path": "PDS' Particles & Models Kit/PDS Models Pack for BSED:R/Presets/Samples/Pigs Particle Pack V5/Part/Attachment/star",
+"_ref": 15983
+},
+{
+"Acceleration": [
+0.0,
+2.0,
+0.0
+],
+"AttributesSerialize": "",
+"Brightness": 12.0,
+"Color": [
+[
+0.0,
+1.0,
+0.4,
+0.0,
+0.0
+],
+[
+1.0,
+1.0,
+0.4,
+0.0,
+0.0
+]
+],
+"DefinesCapabilities": false,
+"Drag": 0.0,
+"EmissionDirection": 1,
+"Enabled": true,
+"FlipbookBlendFrames": true,
+"FlipbookFramerate": [
+1.0,
+1.0
+],
+"FlipbookIncompatible": "Particle texture must be 1024 by 1024 to use flipbooks.",
+"FlipbookLayout": 0,
+"FlipbookMode": 0,
+"FlipbookSizeX": 1,
+"FlipbookSizeY": 1,
+"FlipbookStartRandom": false,
+"Lifetime": [
+2.0,
+3.0
+],
+"LightEmission": 1.0,
+"LightInfluence": 0.0,
+"LockedToPart": false,
+"Name": "ParticleEmitter",
+"Orientation": 2,
+"Rate": 20.0,
+"RotSpeed": [
+0.0,
+0.0
+],
+"Rotation": [
+90.0,
+90.0
+],
+"SerializedOverrides": "",
+"Shape": 0,
+"ShapeInOut": 0,
+"ShapePartial": 1.0,
+"ShapeStyle": 0,
+"Size": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+0.6875,
+0.0
+]
+],
+"Speed": [
+3.0,
+3.0
+],
+"SpreadAngle": [
+180.0,
+180.0
+],
+"Squash": [
+[
+0.0,
+0.5,
+0.0
+],
+[
+1.0,
+0.5,
+0.0
+]
+],
+"Texture": "rbxassetid://7216855914",
+"TimeScale": 1.0,
+"Transparency": [
+[
+0.0,
+1.0,
+0.0
+],
+[
+0.5031,
+0.0,
+0.0
+],
+[
+1.0,
+1.0,
+0.0
+]
+],
+"VelocityInheritance": 0.0,
+"WindAffectsDrag": false,
+"ZOffset": 0.0,
+"_class": "ParticleEmitter",
+"_path": "PDS' Particles & Models Kit/PDS Models Pack for BSED:R/Presets/Samples/Pigs Particle Pack V5/Part/Attachment/ParticleEmitter",
+"_ref": 15988
+},
+{
+"Acceleration": [
+0.0,
+0.0,
+0.0
+],
+"AttributesSerialize": "",
+"Brightness": 1.0,
+"Color": [
+[
+0.0,
+0.2588,
+0.2353,
+1.0,
+0.0
+],
+[
+1.0,
+0.2588,
+0.2353,
+1.0,
+0.0
+]
+],
+"DefinesCapabilities": false,
+"Drag": 0.0,
+"EmissionDirection": 1,
+"Enabled": true,
+"FlipbookBlendFrames": true,
+"FlipbookFramerate": [
+1.0,
+1.0
+],
+"FlipbookIncompatible": "Particle texture must be 1024 by 1024 to use flipbooks.",
+"FlipbookLayout": 0,
+"FlipbookMode": 0,
+"FlipbookSizeX": 1,
+"FlipbookSizeY": 1,
+"FlipbookStartRandom": false,
+"Lifetime": [
+2.0,
+2.0
+],
+"LightEmission": 1.0,
+"LightInfluence": 0.0,
+"LockedToPart": false,
+"Name": "swirl",
+"Orientation": 3,
+"Rate": 150.0,
+"RotSpeed": [
+200.0,
+200.0
+],
+"Rotation": [
+0.0,
+0.0
+],
+"SerializedOverrides": "",
+"Shape": 0,
+"ShapeInOut": 2,
+"ShapePartial": 1.0,
+"ShapeStyle": 0,
+"Size": [
+[
+0.0,
+7.0,
+0.0
+],
+[
+1.0,
+7.0,
+0.0
+]
+],
+"Speed": [
+0.01,
+0.01
+],
+"SpreadAngle": [
+-360.0,
+360.0
+],
+"Squash": [
+[
+0.0,
+0.0,
+0.1639
+],
+[
+1.0,
+0.0,
+0.0
+]
+],
+"Texture": "rbxassetid://10558425570",
+"TimeScale": 1.0,
+"Transparency": [
+[
+0.0,
+1.0,
+0.0
+],
+[
+0.5006,
+0.5,
+0.0
+],
+[
+1.0,
+1.0,
+0.0
+]
+],
+"VelocityInheritance": 0.0,
+"WindAffectsDrag": false,
+"ZOffset": -1.0,
+"_class": "ParticleEmitter",
+"_path": "PDS' Particles & Models Kit/PDS Models Pack for BSED:R/Presets/Samples/Pigs Particle Pack V5/Part/Attachment/swirl",
+"_ref": 15991
+},
+{
+"Acceleration": [
+0.0,
+0.0,
+0.0
+],
+"AttributesSerialize": "",
+"Brightness": 1.0,
+"Color": [
+[
+0.0,
+0.3255,
+0.3686,
+1.0,
+0.0
+],
+[
+1.0,
+0.3255,
+0.3686,
+1.0,
+0.0
+]
+],
+"DefinesCapabilities": false,
+"Drag": 0.0,
+"EmissionDirection": 1,
+"Enabled": true,
+"FlipbookBlendFrames": true,
+"FlipbookFramerate": [
+1.0,
+1.0
+],
+"FlipbookIncompatible": "Particle texture must be 1024 by 1024 to use flipbooks.",
+"FlipbookLayout": 0,
+"FlipbookMode": 0,
+"FlipbookSizeX": 1,
+"FlipbookSizeY": 1,
+"FlipbookStartRandom": false,
+"Lifetime": [
+4.0,
+4.0
+],
+"LightEmission": 1.0,
+"LightInfluence": 0.0,
+"LockedToPart": false,
+"Name": "ParticleEmitter",
+"Orientation": 3,
+"Rate": 20.0,
+"RotSpeed": [
+0.0,
+0.0
+],
+"Rotation": [
+-180.0,
+180.0
+],
+"SerializedOverrides": "",
+"Shape": 0,
+"ShapeInOut": 0,
+"ShapePartial": 1.0,
+"ShapeStyle": 0,
+"Size": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+12.4757,
+0.0
+]
+],
+"Speed": [
+0.01,
+0.01
+],
+"SpreadAngle": [
+-360.0,
+360.0
+],
+"Squash": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+0.0,
+0.7869
+]
+],
+"Texture": "rbxassetid://14050321697",
+"TimeScale": 1.0,
+"Transparency": [
+[
+0.0,
+0.8813,
+0.0
+],
+[
+1.0,
+1.0,
+0.0
+]
+],
+"VelocityInheritance": 0.0,
+"WindAffectsDrag": false,
+"ZOffset": 0.0,
+"_class": "ParticleEmitter",
+"_path": "PDS' Particles & Models Kit/PDS Models Pack for BSED:R/Presets/Samples/Pigs Particle Pack V5/Part/Attachment/ParticleEmitter",
+"_ref": 15998
+},
+{
+"Acceleration": [
+0.0,
+0.0,
+0.0
+],
+"AttributesSerialize": "",
+"Brightness": 1.0,
+"Color": [
+[
+0.0,
+0.0549,
+1.0,
+0.9216,
+0.0
+],
+[
+1.0,
+0.0549,
+1.0,
+0.9216,
+0.0
+]
+],
+"DefinesCapabilities": false,
+"Drag": 0.0,
+"EmissionDirection": 1,
+"Enabled": true,
+"FlipbookBlendFrames": true,
+"FlipbookFramerate": [
+1.0,
+1.0
+],
+"FlipbookIncompatible": "Particle texture must be 1024 by 1024 to use flipbooks.",
+"FlipbookLayout": 0,
+"FlipbookMode": 0,
+"FlipbookSizeX": 1,
+"FlipbookSizeY": 1,
+"FlipbookStartRandom": false,
+"Lifetime": [
+5.0,
+5.0
+],
+"LightEmission": 1.0,
+"LightInfluence": 0.0,
+"LockedToPart": false,
+"Name": "ParticleEmitter",
+"Orientation": 3,
+"Rate": 20.0,
+"RotSpeed": [
+0.0,
+0.0
+],
+"Rotation": [
+-180.0,
+180.0
+],
+"SerializedOverrides": "",
+"Shape": 0,
+"ShapeInOut": 0,
+"ShapePartial": 1.0,
+"ShapeStyle": 0,
+"Size": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+16.1986,
+0.0
+]
+],
+"Speed": [
+0.01,
+0.01
+],
+"SpreadAngle": [
+-360.0,
+360.0
+],
+"Squash": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+0.0,
+1.0164
+]
+],
+"Texture": "rbxassetid://14054628491",
+"TimeScale": 1.0,
+"Transparency": [
+[
+0.0,
+0.75,
+0.0
+],
+[
+1.0,
+1.0,
+0.0
+]
+],
+"VelocityInheritance": 0.0,
+"WindAffectsDrag": false,
+"ZOffset": 0.0,
+"_class": "ParticleEmitter",
+"_path": "PDS' Particles & Models Kit/PDS Models Pack for BSED:R/Presets/Samples/Pigs Particle Pack V5/Part/Attachment/ParticleEmitter",
+"_ref": 16001
+},
+{
+"Acceleration": [
+0.0,
+0.0,
+0.0
+],
+"AttributesSerialize": "",
+"Brightness": 1.0,
+"Color": [
+[
+0.0,
+1.0,
+1.0,
+1.0,
+0.0
+],
+[
+1.0,
+1.0,
+1.0,
+1.0,
+0.0
+]
+],
+"DefinesCapabilities": false,
+"Drag": 0.0,
+"EmissionDirection": 1,
+"Enabled": true,
+"FlipbookBlendFrames": true,
+"FlipbookFramerate": [
+1.0,
+1.0
+],
+"FlipbookIncompatible": "Particle texture must be 1024 by 1024 to use flipbooks.",
+"FlipbookLayout": 0,
+"FlipbookMode": 0,
+"FlipbookSizeX": 1,
+"FlipbookSizeY": 1,
+"FlipbookStartRandom": false,
+"Lifetime": [
+4.0,
+4.0
+],
+"LightEmission": 1.0,
+"LightInfluence": 0.0,
+"LockedToPart": false,
+"Name": "ParticleEmitter",
+"Orientation": 0,
+"Rate": 20.0,
+"RotSpeed": [
+100.0,
+100.0
+],
+"Rotation": [
+-180.0,
+180.0
+],
+"SerializedOverrides": "",
+"Shape": 0,
+"ShapeInOut": 0,
+"ShapePartial": 1.0,
+"ShapeStyle": 0,
+"Size": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+12.4757,
+0.0
+]
+],
+"Speed": [
+0.01,
+0.01
+],
+"SpreadAngle": [
+-360.0,
+360.0
+],
+"Squash": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+0.0,
+0.7869
+]
+],
+"Texture": "https://assetgame.roblox.com/asset/?id=12389944306&assetName=906abefa-60fa-4077-ba01-bcf1862573ff",
+"TimeScale": 1.0,
+"Transparency": [
+[
+0.0,
+0.8813,
+0.0
+],
+[
+1.0,
+1.0,
+0.0
+]
+],
+"VelocityInheritance": 0.0,
+"WindAffectsDrag": false,
+"ZOffset": 0.1,
+"_class": "ParticleEmitter",
+"_path": "PDS' Particles & Models Kit/PDS Models Pack for BSED:R/Presets/Samples/Pigs Particle Pack V5/Part/Attachment/ParticleEmitter",
+"_ref": 16005
+},
+{
+"Acceleration": [
+0.0,
+0.0,
+0.0
+],
+"AttributesSerialize": "",
+"Brightness": 1.0,
+"Color": [
+[
+0.0,
+0.0,
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+0.0,
+0.0,
+0.0,
+0.0
+]
+],
+"DefinesCapabilities": false,
+"Drag": 0.0,
+"EmissionDirection": 1,
+"Enabled": true,
+"FlipbookBlendFrames": true,
+"FlipbookFramerate": [
+1.0,
+1.0
+],
+"FlipbookIncompatible": "Particle texture must be 1024 by 1024 to use flipbooks.",
+"FlipbookLayout": 0,
+"FlipbookMode": 0,
+"FlipbookSizeX": 1,
+"FlipbookSizeY": 1,
+"FlipbookStartRandom": false,
+"Lifetime": [
+4.0,
+4.0
+],
+"LightEmission": 0.0,
+"LightInfluence": 0.0,
+"LockedToPart": false,
+"Name": "ParticleEmitter",
+"Orientation": 0,
+"Rate": 20.0,
+"RotSpeed": [
+100.0,
+100.0
+],
+"Rotation": [
+-180.0,
+180.0
+],
+"SerializedOverrides": "",
+"Shape": 0,
+"ShapeInOut": 0,
+"ShapePartial": 1.0,
+"ShapeStyle": 0,
+"Size": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+12.4757,
+0.0
+]
+],
+"Speed": [
+0.01,
+0.01
+],
+"SpreadAngle": [
+-360.0,
+360.0
+],
+"Squash": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+0.0,
+0.7869
+]
+],
+"Texture": "https://assetgame.roblox.com/asset/?id=12389944306&assetName=906abefa-60fa-4077-ba01-bcf1862573ff",
+"TimeScale": 1.0,
+"Transparency": [
+[
+0.0,
+0.8813,
+0.0
+],
+[
+1.0,
+1.0,
+0.0
+]
+],
+"VelocityInheritance": 0.0,
+"WindAffectsDrag": false,
+"ZOffset": 0.0,
+"_class": "ParticleEmitter",
+"_path": "PDS' Particles & Models Kit/PDS Models Pack for BSED:R/Presets/Samples/Pigs Particle Pack V5/Part/Attachment/ParticleEmitter",
+"_ref": 16006
+},
+{
+"Acceleration": [
+0.0,
+0.0,
+0.0
+],
+"AttributesSerialize": "",
+"Brightness": 1.0,
+"Color": [
+[
+0.0,
+0.0,
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+0.0,
+0.0,
+0.0,
+0.0
+]
+],
+"DefinesCapabilities": false,
+"Drag": 0.0,
+"EmissionDirection": 1,
+"Enabled": true,
+"FlipbookBlendFrames": true,
+"FlipbookFramerate": [
+1.0,
+1.0
+],
+"FlipbookIncompatible": "Particle texture must be 1024 by 1024 to use flipbooks.",
+"FlipbookLayout": 0,
+"FlipbookMode": 0,
+"FlipbookSizeX": 1,
+"FlipbookSizeY": 1,
+"FlipbookStartRandom": false,
+"Lifetime": [
+4.0,
+4.0
+],
+"LightEmission": 0.0,
+"LightInfluence": 0.0,
+"LockedToPart": false,
+"Name": "ParticleEmitter",
+"Orientation": 3,
+"Rate": 20.0,
+"RotSpeed": [
+0.0,
+0.0
+],
+"Rotation": [
+-180.0,
+180.0
+],
+"SerializedOverrides": "",
+"Shape": 0,
+"ShapeInOut": 0,
+"ShapePartial": 1.0,
+"ShapeStyle": 0,
+"Size": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+18.8475,
+0.0
+]
+],
+"Speed": [
+0.01,
+0.01
+],
+"SpreadAngle": [
+-360.0,
+360.0
+],
+"Squash": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+0.0,
+0.7869
+]
+],
+"Texture": "rbxassetid://7216850580",
+"TimeScale": 1.0,
+"Transparency": [
+[
+0.0,
+0.8813,
+0.0
+],
+[
+1.0,
+1.0,
+0.0
+]
+],
+"VelocityInheritance": 0.0,
+"WindAffectsDrag": false,
+"ZOffset": 0.0,
+"_class": "ParticleEmitter",
+"_path": "PDS' Particles & Models Kit/PDS Models Pack for BSED:R/Presets/Samples/Pigs Particle Pack V5/Part/Attachment/ParticleEmitter",
+"_ref": 16010
+},
+{
+"Acceleration": [
+0.0,
+0.0,
+0.0
+],
+"AttributesSerialize": "",
+"Brightness": 3.0,
+"Color": [
+[
+0.0,
+0.5569,
+1.0,
+0.3961,
+0.0
+],
+[
+1.0,
+0.5569,
+1.0,
+0.3961,
+0.0
+]
+],
+"DefinesCapabilities": false,
+"Drag": 0.0,
+"EmissionDirection": 1,
+"Enabled": true,
+"FlipbookBlendFrames": true,
+"FlipbookFramerate": [
+1.0,
+1.0
+],
+"FlipbookIncompatible": "Particle texture must be 1024 by 1024 to use flipbooks.",
+"FlipbookLayout": 0,
+"FlipbookMode": 0,
+"FlipbookSizeX": 1,
+"FlipbookSizeY": 1,
+"FlipbookStartRandom": false,
+"Lifetime": [
+2.0,
+2.0
+],
+"LightEmission": 1.0,
+"LightInfluence": 0.0,
+"LockedToPart": false,
+"Name": "swirl",
+"Orientation": 0,
+"Rate": 5.0,
+"RotSpeed": [
+-200.0,
+200.0
+],
+"Rotation": [
+0.0,
+0.0
+],
+"SerializedOverrides": "",
+"Shape": 0,
+"ShapeInOut": 2,
+"ShapePartial": 1.0,
+"ShapeStyle": 0,
+"Size": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+10.0,
+0.0
+]
+],
+"Speed": [
+0.01,
+0.01
+],
+"SpreadAngle": [
+-360.0,
+360.0
+],
+"Squash": [
+[
+0.0,
+0.0,
+0.1639
+],
+[
+1.0,
+0.0,
+0.0
+]
+],
+"Texture": "rbxassetid://14050094484",
+"TimeScale": 1.0,
+"Transparency": [
+[
+0.0,
+1.0,
+0.0
+],
+[
+0.4732,
+0.7062,
+0.0188
+],
+[
+1.0,
+1.0,
+0.0
+]
+],
+"VelocityInheritance": 0.0,
+"WindAffectsDrag": false,
+"ZOffset": 0.0,
+"_class": "ParticleEmitter",
+"_path": "PDS' Particles & Models Kit/PDS Models Pack for BSED:R/Presets/Samples/Pigs Particle Pack V5/Part/Attachment/swirl",
+"_ref": 16014
+},
+{
+"Acceleration": [
+0.0,
+0.0,
+0.0
+],
+"AttributesSerialize": "",
+"Brightness": 1.0,
+"Color": [
+[
+0.0,
+0.0,
+0.051,
+1.0,
+0.0
+],
+[
+1.0,
+0.0,
+0.051,
+1.0,
+0.0
+]
+],
+"DefinesCapabilities": false,
+"Drag": 0.0,
+"EmissionDirection": 1,
+"Enabled": true,
+"FlipbookBlendFrames": true,
+"FlipbookFramerate": [
+1.0,
+1.0
+],
+"FlipbookIncompatible": "Particle texture must be 1024 by 1024 to use flipbooks.",
+"FlipbookLayout": 0,
+"FlipbookMode": 0,
+"FlipbookSizeX": 1,
+"FlipbookSizeY": 1,
+"FlipbookStartRandom": false,
+"Lifetime": [
+4.0,
+4.0
+],
+"LightEmission": 1.0,
+"LightInfluence": 0.0,
+"LockedToPart": false,
+"Name": "ParticleEmitter",
+"Orientation": 3,
+"Rate": 20.0,
+"RotSpeed": [
+0.0,
+0.0
+],
+"Rotation": [
+-180.0,
+180.0
+],
+"SerializedOverrides": "",
+"Shape": 0,
+"ShapeInOut": 0,
+"ShapePartial": 1.0,
+"ShapeStyle": 0,
+"Size": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+12.4757,
+0.0
+]
+],
+"Speed": [
+0.01,
+0.01
+],
+"SpreadAngle": [
+-360.0,
+360.0
+],
+"Squash": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+0.0,
+0.7869
+]
+],
+"Texture": "http://www.roblox.com/asset/?id=12878479033",
+"TimeScale": 1.0,
+"Transparency": [
+[
+0.0,
+0.8813,
+0.0
+],
+[
+1.0,
+1.0,
+0.0
+]
+],
+"VelocityInheritance": 0.0,
+"WindAffectsDrag": false,
+"ZOffset": 0.0,
+"_class": "ParticleEmitter",
+"_path": "PDS' Particles & Models Kit/PDS Models Pack for BSED:R/Presets/Samples/Pigs Particle Pack V5/Part/Attachment/ParticleEmitter",
+"_ref": 16019
+},
+{
+"Acceleration": [
+0.0,
+0.0,
+0.0
+],
+"AttributesSerialize": "",
+"Brightness": 0.1,
+"Color": [
+[
+0.0,
+1.0,
+1.0,
+1.0,
+0.0
+],
+[
+1.0,
+1.0,
+1.0,
+1.0,
+0.0
+]
+],
+"DefinesCapabilities": false,
+"Drag": 0.0,
+"EmissionDirection": 1,
+"Enabled": true,
+"FlipbookBlendFrames": true,
+"FlipbookFramerate": [
+1.0,
+1.0
+],
+"FlipbookIncompatible": "Particle texture must be 1024 by 1024 to use flipbooks.",
+"FlipbookLayout": 0,
+"FlipbookMode": 0,
+"FlipbookSizeX": 1,
+"FlipbookSizeY": 1,
+"FlipbookStartRandom": false,
+"Lifetime": [
+4.0,
+4.0
+],
+"LightEmission": 1.0,
+"LightInfluence": 0.0,
+"LockedToPart": false,
+"Name": "ParticleEmitter",
+"Orientation": 3,
+"Rate": 30.0,
+"RotSpeed": [
+0.0,
+0.0
+],
+"Rotation": [
+-180.0,
+180.0
+],
+"SerializedOverrides": "",
+"Shape": 0,
+"ShapeInOut": 0,
+"ShapePartial": 1.0,
+"ShapeStyle": 0,
+"Size": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+18.8475,
+0.0
+]
+],
+"Speed": [
+0.01,
+0.01
+],
+"SpreadAngle": [
+-360.0,
+360.0
+],
+"Squash": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+0.0,
+0.7869
+]
+],
+"Texture": "rbxassetid://14221378803",
+"TimeScale": 1.0,
+"Transparency": [
+[
+0.0,
+0.8813,
+0.0
+],
+[
+1.0,
+1.0,
+0.0
+]
+],
+"VelocityInheritance": 0.0,
+"WindAffectsDrag": false,
+"ZOffset": 0.0,
+"_class": "ParticleEmitter",
+"_path": "PDS' Particles & Models Kit/PDS Models Pack for BSED:R/Presets/Samples/Pigs Particle Pack V5/Part/Attachment/ParticleEmitter",
+"_ref": 16022
+},
+{
+"Acceleration": [
+0.0,
+0.0,
+0.0
+],
+"AttributesSerialize": "",
+"Brightness": 0.01,
+"Color": [
+[
+0.0,
+0.4863,
+1.0,
+0.7608,
+0.0
+],
+[
+0.2543,
+0.6039,
+1.0,
+0.4353,
+0.0
+],
+[
+0.5986,
+0.4549,
+0.702,
+1.0,
+0.0
+],
+[
+0.8529,
+0.8078,
+0.5176,
+0.8667,
+0.0
+],
+[
+1.0,
+0.651,
+1.0,
+0.3843,
+0.0
+]
+],
+"DefinesCapabilities": false,
+"Drag": 0.0,
+"EmissionDirection": 1,
+"Enabled": true,
+"FlipbookBlendFrames": true,
+"FlipbookFramerate": [
+1.0,
+1.0
+],
+"FlipbookIncompatible": "Particle texture must be 1024 by 1024 to use flipbooks.",
+"FlipbookLayout": 0,
+"FlipbookMode": 1,
+"FlipbookSizeX": 1,
+"FlipbookSizeY": 1,
+"FlipbookStartRandom": false,
+"Lifetime": [
+5.0,
+5.0
+],
+"LightEmission": 1.0,
+"LightInfluence": 0.0,
+"LockedToPart": true,
+"Name": "ParticleEmitter",
+"Orientation": 3,
+"Rate": 60.0,
+"RotSpeed": [
+0.0,
+0.0
+],
+"Rotation": [
+0.0,
+0.0
+],
+"SerializedOverrides": "",
+"Shape": 0,
+"ShapeInOut": 0,
+"ShapePartial": 1.0,
+"ShapeStyle": 0,
+"Size": [
+[
+0.0,
+6.0,
+0.0
+],
+[
+1.0,
+6.0,
+0.0
+]
+],
+"Speed": [
+1.0,
+1.0
+],
+"SpreadAngle": [
+0.0,
+0.0
+],
+"Squash": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+0.0,
+0.0
+]
+],
+"Texture": "rbxassetid://15440984216",
+"TimeScale": 1.0,
+"Transparency": [
+[
+0.0,
+1.0,
+0.0
+],
+[
+0.5,
+0.8,
+0.0
+],
+[
+1.0,
+1.0,
+0.0
+]
+],
+"VelocityInheritance": 0.0,
+"WindAffectsDrag": false,
+"ZOffset": 0.0,
+"_class": "ParticleEmitter",
+"_path": "PDS' Particles & Models Kit/PDS Models Pack for BSED:R/Presets/Samples/Pigs Particle Pack V5/Part/Attachment/ParticleEmitter",
+"_ref": 16027
+},
+{
+"Acceleration": [
+0.0,
+0.0,
+0.0
+],
+"AttributesSerialize": "",
+"Brightness": 3.0,
+"Color": [
+[
+0.0,
+1.0,
+0.2353,
+0.2353,
+0.0
+],
+[
+1.0,
+1.0,
+0.2353,
+0.2353,
+0.0
+]
+],
+"DefinesCapabilities": false,
+"Drag": 0.0,
+"EmissionDirection": 1,
+"Enabled": true,
+"FlipbookBlendFrames": true,
+"FlipbookFramerate": [
+1.0,
+1.0
+],
+"FlipbookIncompatible": "Particle texture must be 1024 by 1024 to use flipbooks.",
+"FlipbookLayout": 0,
+"FlipbookMode": 0,
+"FlipbookSizeX": 1,
+"FlipbookSizeY": 1,
+"FlipbookStartRandom": false,
+"Lifetime": [
+4.0,
+4.0
+],
+"LightEmission": 1.0,
+"LightInfluence": 0.0,
+"LockedToPart": false,
+"Name": "ParticleEmitter",
+"Orientation": 3,
+"Rate": 20.0,
+"RotSpeed": [
+0.0,
+0.0
+],
+"Rotation": [
+-180.0,
+180.0
+],
+"SerializedOverrides": "",
+"Shape": 0,
+"ShapeInOut": 0,
+"ShapePartial": 1.0,
+"ShapeStyle": 0,
+"Size": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+5.4375,
+0.0
+]
+],
+"Speed": [
+0.01,
+0.01
+],
+"SpreadAngle": [
+-360.0,
+360.0
+],
+"Squash": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+0.0,
+0.7869
+]
+],
+"Texture": "http://www.roblox.com/asset/?id=917181007",
+"TimeScale": 1.0,
+"Transparency": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+1.0,
+0.0
+]
+],
+"VelocityInheritance": 0.0,
+"WindAffectsDrag": false,
+"ZOffset": 0.0,
+"_class": "ParticleEmitter",
+"_path": "PDS' Particles & Models Kit/PDS Models Pack for BSED:R/Presets/Samples/Pigs Particle Pack V5/Part/Attachment/ParticleEmitter",
+"_ref": 16032
+},
+{
+"Acceleration": [
+0.0,
+0.0,
+0.0
+],
+"AttributesSerialize": "",
+"Brightness": 1.0,
+"Color": [
+[
+0.0,
+0.1843,
+0.498,
+1.0,
+0.0
+],
+[
+1.0,
+0.1843,
+0.498,
+1.0,
+0.0
+]
+],
+"DefinesCapabilities": false,
+"Drag": 0.0,
+"EmissionDirection": 1,
+"Enabled": true,
+"FlipbookBlendFrames": true,
+"FlipbookFramerate": [
+20.0,
+20.0
+],
+"FlipbookIncompatible": "Particle texture must be 1024 by 1024 to use flipbooks.",
+"FlipbookLayout": 1,
+"FlipbookMode": 1,
+"FlipbookSizeX": 1,
+"FlipbookSizeY": 1,
+"FlipbookStartRandom": true,
+"Lifetime": [
+0.15,
+0.15
+],
+"LightEmission": 1.0,
+"LightInfluence": 0.0,
+"LockedToPart": false,
+"Name": "ParticleEmitter",
+"Orientation": 0,
+"Rate": 40.0,
+"RotSpeed": [
+0.0,
+0.0
+],
+"Rotation": [
+-180.0,
+180.0
+],
+"SerializedOverrides": "",
+"Shape": 0,
+"ShapeInOut": 0,
+"ShapePartial": 1.0,
+"ShapeStyle": 0,
+"Size": [
+[
+0.0,
+1.5,
+0.0
+],
+[
+1.0,
+1.5,
+0.0
+]
+],
+"Speed": [
+0.01,
+0.01
+],
+"SpreadAngle": [
+0.0,
+0.0
+],
+"Squash": [
+[
+0.0,
+0.0,
+0.2951
+],
+[
+1.0,
+0.0,
+0.2951
+]
+],
+"Texture": "http://www.roblox.com/asset/?id=12800314277",
+"TimeScale": 1.0,
+"Transparency": [
+[
+0.0,
+1.0,
+0.0
+],
+[
+0.5181,
+0.0,
+0.0
+],
+[
+1.0,
+1.0,
+0.0
+]
+],
+"VelocityInheritance": 0.0,
+"WindAffectsDrag": false,
+"ZOffset": 2.0,
+"_class": "ParticleEmitter",
+"_path": "PDS' Particles & Models Kit/PDS Models Pack for BSED:R/Presets/Samples/Pigs Particle Pack V5/Part/ParticleEmitter",
+"_ref": 16035
+},
+{
+"Acceleration": [
+0.0,
+0.0,
+0.0
+],
+"AttributesSerialize": "",
+"Brightness": 1.0,
+"Color": [
+[
+0.0,
+1.0,
+1.0,
+1.0,
+0.0
+],
+[
+1.0,
+1.0,
+1.0,
+1.0,
+0.0
+]
+],
+"DefinesCapabilities": false,
+"Drag": 0.0,
+"EmissionDirection": 1,
+"Enabled": true,
+"FlipbookBlendFrames": true,
+"FlipbookFramerate": [
+1.0,
+1.0
+],
+"FlipbookIncompatible": "Particle texture must be 1024 by 1024 to use flipbooks.",
+"FlipbookLayout": 0,
+"FlipbookMode": 0,
+"FlipbookSizeX": 1,
+"FlipbookSizeY": 1,
+"FlipbookStartRandom": false,
+"Lifetime": [
+1.0,
+1.0
+],
+"LightEmission": 1.0,
+"LightInfluence": 0.0,
+"LockedToPart": false,
+"Name": "ParticleEmitter",
+"Orientation": 0,
+"Rate": 20.0,
+"RotSpeed": [
+-360.0,
+360.0
+],
+"Rotation": [
+-180.0,
+180.0
+],
+"SerializedOverrides": "",
+"Shape": 0,
+"ShapeInOut": 0,
+"ShapePartial": 1.0,
+"ShapeStyle": 0,
+"Size": [
+[
+0.0,
+6.375,
+0.0
+],
+[
+0.1494,
+2.5625,
+0.0
+],
+[
+0.401,
+0.625,
+0.0
+],
+[
+1.0,
+0.0,
+0.0
+]
+],
+"Speed": [
+0.01,
+0.01
+],
+"SpreadAngle": [
+0.0,
+0.0
+],
+"Squash": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+0.0,
+0.0
+]
+],
+"Texture": "rbxassetid://7216849325",
+"TimeScale": 1.0,
+"Transparency": [
+[
+0.0,
+1.0,
+0.0
+],
+[
+0.056,
+0.5125,
+0.0
+],
+[
+0.0984,
+0.0,
+0.0
+],
+[
+1.0,
+1.0,
+0.0
+]
+],
+"VelocityInheritance": 0.0,
+"WindAffectsDrag": false,
+"ZOffset": 2.0,
+"_class": "ParticleEmitter",
+"_path": "PDS' Particles & Models Kit/PDS Models Pack for BSED:R/Presets/Samples/Pigs Particle Pack V5/Part/ParticleEmitter",
+"_ref": 16039
+},
+{
+"Acceleration": [
+0.0,
+0.0,
+0.0
+],
+"AttributesSerialize": "",
+"Brightness": 1.0,
+"Color": [
+[
+0.0,
+0.3451,
+1.0,
+0.2431,
+0.0
+],
+[
+1.0,
+0.3451,
+1.0,
+0.2431,
+0.0
+]
+],
+"DefinesCapabilities": false,
+"Drag": 0.0,
+"EmissionDirection": 1,
+"Enabled": true,
+"FlipbookBlendFrames": true,
+"FlipbookFramerate": [
+1.0,
+1.0
+],
+"FlipbookIncompatible": "Particle texture must be 1024 by 1024 to use flipbooks.",
+"FlipbookLayout": 0,
+"FlipbookMode": 0,
+"FlipbookSizeX": 1,
+"FlipbookSizeY": 1,
+"FlipbookStartRandom": false,
+"Lifetime": [
+8.0,
+8.0
+],
+"LightEmission": 1.0,
+"LightInfluence": 1.0,
+"LockedToPart": true,
+"Name": "Slash",
+"Orientation": 3,
+"Rate": 3.0,
+"RotSpeed": [
+300.0,
+300.0
+],
+"Rotation": [
+0.0,
+0.0
+],
+"SerializedOverrides": "",
+"Shape": 0,
+"ShapeInOut": 0,
+"ShapePartial": 1.0,
+"ShapeStyle": 0,
+"Size": [
+[
+0.0,
+10.0,
+0.0
+],
+[
+1.0,
+0.0,
+0.0
+]
+],
+"Speed": [
+0.01,
+0.01
+],
+"SpreadAngle": [
+0.0,
+0.0
+],
+"Squash": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+0.0,
+0.0
+]
+],
+"Texture": "rbxassetid://14054635072",
+"TimeScale": 1.0,
+"Transparency": [
+[
+0.0,
+1.0,
+0.0
+],
+[
+0.5,
+0.0,
+0.0
+],
+[
+1.0,
+1.0,
+0.0
+]
+],
+"VelocityInheritance": 0.0,
+"WindAffectsDrag": false,
+"ZOffset": 0.0,
+"_class": "ParticleEmitter",
+"_path": "PDS' Particles & Models Kit/PDS Models Pack for BSED:R/Presets/Samples/OreSample4/Hitbox/Bottom/Slash",
+"_ref": 16069
+},
+{
+"Acceleration": [
+0.0,
+0.0,
+0.0
+],
+"AttributesSerialize": "",
+"Brightness": 1.0,
+"Color": [
+[
+0.0,
+0.349,
+1.0,
+0.349,
+0.0
+],
+[
+1.0,
+0.349,
+1.0,
+0.349,
+0.0
+]
+],
+"DefinesCapabilities": false,
+"Drag": 0.0,
+"EmissionDirection": 1,
+"Enabled": true,
+"FlipbookBlendFrames": true,
+"FlipbookFramerate": [
+1.0,
+1.0
+],
+"FlipbookIncompatible": "Particle texture must be 1024 by 1024 to use flipbooks.",
+"FlipbookLayout": 0,
+"FlipbookMode": 0,
+"FlipbookSizeX": 1,
+"FlipbookSizeY": 1,
+"FlipbookStartRandom": false,
+"Lifetime": [
+5.0,
+5.0
+],
+"LightEmission": 1.0,
+"LightInfluence": 1.0,
+"LockedToPart": true,
+"Name": "Fog",
+"Orientation": 0,
+"Rate": 8.0,
+"RotSpeed": [
+-30.0,
+30.0
+],
+"Rotation": [
+-180.0,
+180.0
+],
+"SerializedOverrides": "",
+"Shape": 0,
+"ShapeInOut": 0,
+"ShapePartial": 1.0,
+"ShapeStyle": 0,
+"Size": [
+[
+0.0,
+8.0,
+0.0
+],
+[
+1.0,
+10.0,
+0.0
+]
+],
+"Speed": [
+0.0,
+0.0
+],
+"SpreadAngle": [
+0.0,
+0.0
+],
+"Squash": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+0.0,
+0.375
+]
+],
+"Texture": "rbxassetid://14050109275",
+"TimeScale": 1.0,
+"Transparency": [
+[
+0.0,
+1.0,
+0.0
+],
+[
+0.5,
+0.9255,
+0.0
+],
+[
+1.0,
+1.0,
+0.0
+]
+],
+"VelocityInheritance": 0.0,
+"WindAffectsDrag": false,
+"ZOffset": 2.0,
+"_class": "ParticleEmitter",
+"_path": "PDS' Particles & Models Kit/PDS Models Pack for BSED:R/Presets/Samples/OreSample4/Hitbox/Mid/Fog",
+"_ref": 16071
+},
+{
+"Acceleration": [
+0.0,
+0.0,
+0.0
+],
+"AttributesSerialize": "",
+"Brightness": 1.0,
+"Color": [
+[
+0.0,
+0.3451,
+1.0,
+0.2431,
+0.0
+],
+[
+1.0,
+0.3451,
+1.0,
+0.2431,
+0.0
+]
+],
+"DefinesCapabilities": false,
+"Drag": 1.0,
+"EmissionDirection": 1,
+"Enabled": true,
+"FlipbookBlendFrames": true,
+"FlipbookFramerate": [
+1.0,
+1.0
+],
+"FlipbookIncompatible": "Particle texture must be 1024 by 1024 to use flipbooks.",
+"FlipbookLayout": 0,
+"FlipbookMode": 0,
+"FlipbookSizeX": 1,
+"FlipbookSizeY": 1,
+"FlipbookStartRandom": false,
+"Lifetime": [
+8.0,
+8.0
+],
+"LightEmission": 1.0,
+"LightInfluence": 1.0,
+"LockedToPart": true,
+"Name": "Top",
+"Orientation": 3,
+"Rate": 40.0,
+"RotSpeed": [
+-2.0,
+2.0
+],
+"Rotation": [
+-5.0,
+5.0
+],
+"SerializedOverrides": "",
+"Shape": 0,
+"ShapeInOut": 0,
+"ShapePartial": 1.0,
+"ShapeStyle": 0,
+"Size": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+16.0,
+0.0
+]
+],
+"Speed": [
+5.5,
+5.5
+],
+"SpreadAngle": [
+999.0,
+5.0
+],
+"Squash": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+3.0,
+0.0
+]
+],
+"Texture": "rbxassetid://7216849703",
+"TimeScale": 1.0,
+"Transparency": [
+[
+0.0,
+1.0,
+0.0
+],
+[
+0.5,
+0.5217,
+0.0
+],
+[
+1.0,
+1.0,
+0.0
+]
+],
+"VelocityInheritance": 0.0,
+"WindAffectsDrag": false,
+"ZOffset": 0.0,
+"_class": "ParticleEmitter",
+"_path": "PDS' Particles & Models Kit/PDS Models Pack for BSED:R/Presets/Samples/OreSample4/Hitbox/Bloww/Top",
+"_ref": 16073
+},
+{
+"Acceleration": [
+0.0,
+3.0,
+0.0
+],
+"AttributesSerialize": "",
+"Brightness": 0.15,
+"Color": [
+[
+0.0,
+0.3451,
+1.0,
+0.2431,
+0.0
+],
+[
+1.0,
+0.3451,
+1.0,
+0.2431,
+0.0
+]
+],
+"DefinesCapabilities": false,
+"Drag": 1.0,
+"EmissionDirection": 1,
+"Enabled": true,
+"FlipbookBlendFrames": true,
+"FlipbookFramerate": [
+1.0,
+1.0
+],
+"FlipbookIncompatible": "Particle texture must be 1024 by 1024 to use flipbooks.",
+"FlipbookLayout": 0,
+"FlipbookMode": 0,
+"FlipbookSizeX": 1,
+"FlipbookSizeY": 1,
+"FlipbookStartRandom": false,
+"Lifetime": [
+6.0,
+6.0
+],
+"LightEmission": 1.0,
+"LightInfluence": 0.0,
+"LockedToPart": false,
+"Name": "Fog2",
+"Orientation": 0,
+"Rate": 40.0,
+"RotSpeed": [
+-20.0,
+20.0
+],
+"Rotation": [
+-180.0,
+180.0
+],
+"SerializedOverrides": "",
+"Shape": 0,
+"ShapeInOut": 0,
+"ShapePartial": 1.0,
+"ShapeStyle": 0,
+"Size": [
+[
+0.0,
+10.0,
+0.0
+],
+[
+1.0,
+7.7966,
+0.0
+]
+],
+"Speed": [
+3.0,
+7.0
+],
+"SpreadAngle": [
+999.0,
+0.0
+],
+"Squash": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+0.0,
+0.45
+]
+],
+"Texture": "rbxassetid://14049414463",
+"TimeScale": 1.0,
+"Transparency": [
+[
+0.0,
+1.0,
+0.0
+],
+[
+0.1883,
+1.0,
+0.0
+],
+[
+0.4012,
+0.9876,
+0.0
+],
+[
+0.7006,
+0.9689,
+0.0
+],
+[
+1.0,
+1.0,
+0.0
+]
+],
+"VelocityInheritance": 0.0,
+"WindAffectsDrag": false,
+"ZOffset": 0.0,
+"_class": "ParticleEmitter",
+"_path": "PDS' Particles & Models Kit/PDS Models Pack for BSED:R/Presets/Samples/OreSample4/Hitbox/Bloww/Fog2",
+"_ref": 16074
+},
+{
+"Acceleration": [
+0.0,
+3.0,
+0.0
+],
+"AttributesSerialize": "",
+"Brightness": 1.0,
+"Color": [
+[
+0.0,
+0.3451,
+1.0,
+0.2431,
+0.0
+],
+[
+1.0,
+0.3451,
+1.0,
+0.2431,
+0.0
+]
+],
+"DefinesCapabilities": false,
+"Drag": 1.0,
+"EmissionDirection": 1,
+"Enabled": true,
+"FlipbookBlendFrames": true,
+"FlipbookFramerate": [
+1.0,
+1.0
+],
+"FlipbookIncompatible": "Particle texture must be 1024 by 1024 to use flipbooks.",
+"FlipbookLayout": 0,
+"FlipbookMode": 0,
+"FlipbookSizeX": 1,
+"FlipbookSizeY": 1,
+"FlipbookStartRandom": false,
+"Lifetime": [
+6.0,
+6.0
+],
+"LightEmission": 1.0,
+"LightInfluence": 1.0,
+"LockedToPart": false,
+"Name": "Risers",
+"Orientation": 0,
+"Rate": 40.0,
+"RotSpeed": [
+-2.0,
+2.0
+],
+"Rotation": [
+-5.0,
+5.0
+],
+"SerializedOverrides": "",
+"Shape": 0,
+"ShapeInOut": 0,
+"ShapePartial": 1.0,
+"ShapeStyle": 0,
+"Size": [
+[
+0.0,
+0.904,
+0.0
+],
+[
+1.0,
+0.0,
+0.0
+]
+],
+"Speed": [
+3.0,
+7.0
+],
+"SpreadAngle": [
+999.0,
+0.0
+],
+"Squash": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+0.0,
+0.0
+]
+],
+"Texture": "rbxassetid://7216855914",
+"TimeScale": 1.0,
+"Transparency": [
+[
+0.0,
+1.0,
+0.0
+],
+[
+0.1883,
+1.0,
+0.0
+],
+[
+0.3935,
+0.9689,
+0.0
+],
+[
+0.696,
+0.0,
+0.0
+],
+[
+1.0,
+1.0,
+0.0
+]
+],
+"VelocityInheritance": 0.0,
+"WindAffectsDrag": false,
+"ZOffset": 0.0,
+"_class": "ParticleEmitter",
+"_path": "PDS' Particles & Models Kit/PDS Models Pack for BSED:R/Presets/Samples/OreSample4/Hitbox/Bloww/Risers",
+"_ref": 16075
+},
+{
+"Acceleration": [
+0.0,
+0.0,
+0.0
+],
+"AttributesSerialize": "",
+"Brightness": 1.0,
+"Color": [
+[
+0.0,
+0.4,
+0.4784,
+1.0,
+0.0
+],
+[
+0.5,
+1.0,
+0.9686,
+0.5412,
+0.0
+],
+[
+1.0,
+0.5725,
+1.0,
+0.4745,
+0.0
+]
+],
+"DefinesCapabilities": false,
+"Drag": 0.0,
+"EmissionDirection": 1,
+"Enabled": true,
+"FlipbookBlendFrames": true,
+"FlipbookFramerate": [
+1.0,
+1.0
+],
+"FlipbookIncompatible": "Particle texture must be 1024 by 1024 to use flipbooks.",
+"FlipbookLayout": 0,
+"FlipbookMode": 0,
+"FlipbookSizeX": 1,
+"FlipbookSizeY": 1,
+"FlipbookStartRandom": false,
+"Lifetime": [
+2.0,
+2.0
+],
+"LightEmission": 1.0,
+"LightInfluence": 1.0,
+"LockedToPart": true,
+"Name": "Sparkles",
+"Orientation": 3,
+"Rate": 200.0,
+"RotSpeed": [
+-30.0,
+30.0
+],
+"Rotation": [
+-180.0,
+180.0
+],
+"SerializedOverrides": "",
+"Shape": 1,
+"ShapeInOut": 0,
+"ShapePartial": 1.0,
+"ShapeStyle": 1,
+"Size": [
+[
+0.0,
+2.4294,
+0.0
+],
+[
+0.101,
+0.0,
+0.0
+],
+[
+0.1983,
+2.2599,
+0.0
+],
+[
+0.3042,
+0.0,
+0.0
+],
+[
+0.399,
+2.5424,
+0.0
+],
+[
+0.5037,
+0.0,
+0.0
+],
+[
+0.606,
+2.6554,
+0.0
+],
+[
+0.697,
+0.0,
+0.0
+],
+[
+0.8017,
+2.4859,
+0.0
+],
+[
+0.899,
+0.0,
+0.0
+],
+[
+1.0,
+2.4859,
+0.0
+]
+],
+"Speed": [
+0.01,
+0.01
+],
+"SpreadAngle": [
+0.0,
+0.0
+],
+"Squash": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+0.0,
+0.0
+]
+],
+"Texture": "rbxassetid://7216849325",
+"TimeScale": 1.0,
+"Transparency": [
+[
+0.0,
+1.0,
+0.0
+],
+[
+0.5,
+0.0,
+0.0
+],
+[
+1.0,
+1.0,
+0.0
+]
+],
+"VelocityInheritance": 0.0,
+"WindAffectsDrag": false,
+"ZOffset": 0.0,
+"_class": "ParticleEmitter",
+"_path": "PDS' Particles & Models Kit/PDS Models Pack for BSED:R/Presets/Samples/OreSample2/Big Ore/MeshPart/Sparkles",
+"_ref": 16114
+},
+{
+"Acceleration": [
+0.0,
+0.0,
+0.0
+],
+"AttributesSerialize": "",
+"Brightness": 1.0,
+"Color": [
+[
+0.0,
+0.4,
+0.4784,
+1.0,
+0.0
+],
+[
+1.0,
+0.4,
+0.4784,
+1.0,
+0.0
+]
+],
+"DefinesCapabilities": false,
+"Drag": 0.0,
+"EmissionDirection": 1,
+"Enabled": true,
+"FlipbookBlendFrames": true,
+"FlipbookFramerate": [
+1.0,
+1.0
+],
+"FlipbookIncompatible": "Particle texture must be 1024 by 1024 to use flipbooks.",
+"FlipbookLayout": 0,
+"FlipbookMode": 0,
+"FlipbookSizeX": 1,
+"FlipbookSizeY": 1,
+"FlipbookStartRandom": false,
+"Lifetime": [
+5.0,
+5.0
+],
+"LightEmission": 1.0,
+"LightInfluence": 1.0,
+"LockedToPart": true,
+"Name": "Fog",
+"Orientation": 0,
+"Rate": 8.0,
+"RotSpeed": [
+-30.0,
+30.0
+],
+"Rotation": [
+-180.0,
+180.0
+],
+"SerializedOverrides": "",
+"Shape": 0,
+"ShapeInOut": 0,
+"ShapePartial": 1.0,
+"ShapeStyle": 0,
+"Size": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+10.0,
+0.0
+]
+],
+"Speed": [
+0.0,
+0.0
+],
+"SpreadAngle": [
+0.0,
+0.0
+],
+"Squash": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+0.0,
+0.0
+]
+],
+"Texture": "rbxassetid://14050223758",
+"TimeScale": 1.0,
+"Transparency": [
+[
+0.0,
+1.0,
+0.0
+],
+[
+0.5,
+0.8634,
+0.0
+],
+[
+1.0,
+1.0,
+0.0
+]
+],
+"VelocityInheritance": 0.0,
+"WindAffectsDrag": false,
+"ZOffset": 0.0,
+"_class": "ParticleEmitter",
+"_path": "PDS' Particles & Models Kit/PDS Models Pack for BSED:R/Presets/Samples/OreSample2/Big Ore/MeshPart/Fog",
+"_ref": 16115
+},
+{
+"Acceleration": [
+0.0,
+-0.5,
+0.0
+],
+"AttributesSerialize": "",
+"Brightness": 10.0,
+"Color": [
+[
+0.0,
+0.2941,
+1.0,
+0.1843,
+0.0
+],
+[
+1.0,
+0.2941,
+1.0,
+0.1843,
+0.0
+]
+],
+"DefinesCapabilities": false,
+"Drag": 0.0,
+"EmissionDirection": 1,
+"Enabled": true,
+"FlipbookBlendFrames": true,
+"FlipbookFramerate": [
+1.0,
+1.0
+],
+"FlipbookIncompatible": "Particle texture must be 1024 by 1024 to use flipbooks.",
+"FlipbookLayout": 0,
+"FlipbookMode": 0,
+"FlipbookSizeX": 1,
+"FlipbookSizeY": 1,
+"FlipbookStartRandom": false,
+"Lifetime": [
+1.0,
+2.0
+],
+"LightEmission": 1.0,
+"LightInfluence": 0.0,
+"LockedToPart": false,
+"Name": "ParticlesGreen",
+"Orientation": 2,
+"Rate": 20.0,
+"RotSpeed": [
+0.0,
+0.0
+],
+"Rotation": [
+90.0,
+90.0
+],
+"SerializedOverrides": "",
+"Shape": 1,
+"ShapeInOut": 0,
+"ShapePartial": 1.0,
+"ShapeStyle": 0,
+"Size": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+0.339,
+0.226
+]
+],
+"Speed": [
+3.0,
+4.0
+],
+"SpreadAngle": [
+0.0,
+0.0
+],
+"Squash": [
+[
+0.0,
+0.5,
+0.0
+],
+[
+1.0,
+0.5,
+0.0
+]
+],
+"Texture": "rbxassetid://7216855914",
+"TimeScale": 0.8,
+"Transparency": [
+[
+0.0,
+1.0,
+0.0
+],
+[
+0.5031,
+0.0,
+0.0
+],
+[
+1.0,
+1.0,
+0.0
+]
+],
+"VelocityInheritance": 0.0,
+"WindAffectsDrag": false,
+"ZOffset": 0.0,
+"_class": "ParticleEmitter",
+"_path": "PDS' Particles & Models Kit/PDS Models Pack for BSED:R/Presets/Samples/SampleOre/Hitbox/CloverEffect/ParticlesGreen",
+"_ref": 16227
+},
+{
+"Acceleration": [
+0.0,
+-0.5,
+0.0
+],
+"AttributesSerialize": "\u0002\u0000\u0000\u0000\t\u0000\u0000\u0000EmitCount\u0006\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\t\u0000\u0000\u0000EmitDelay\u0006\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+"Brightness": 3.0,
+"Color": [
+[
+0.0,
+0.1098,
+0.8353,
+0.0,
+0.0
+],
+[
+1.0,
+0.1098,
+0.8353,
+0.0,
+0.0
+]
+],
+"DefinesCapabilities": false,
+"Drag": 0.0,
+"EmissionDirection": 1,
+"Enabled": true,
+"FlipbookBlendFrames": true,
+"FlipbookFramerate": [
+1.0,
+1.0
+],
+"FlipbookIncompatible": "Particle texture must be 1024 by 1024 to use flipbooks.",
+"FlipbookLayout": 0,
+"FlipbookMode": 0,
+"FlipbookSizeX": 1,
+"FlipbookSizeY": 1,
+"FlipbookStartRandom": false,
+"Lifetime": [
+2.0,
+3.0
+],
+"LightEmission": 1.0,
+"LightInfluence": 0.0,
+"LockedToPart": false,
+"Name": "Clover",
+"Orientation": 0,
+"Rate": 20.0,
+"RotSpeed": [
+-50.0,
+50.0
+],
+"Rotation": [
+-180.0,
+180.0
+],
+"SerializedOverrides": "",
+"Shape": 1,
+"ShapeInOut": 0,
+"ShapePartial": 1.0,
+"ShapeStyle": 0,
+"Size": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+0.2825,
+0.2825
+]
+],
+"Speed": [
+2.0,
+3.0
+],
+"SpreadAngle": [
+0.0,
+0.0
+],
+"Squash": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+0.0,
+0.0
+]
+],
+"Texture": "rbxassetid://14279114116",
+"TimeScale": 0.8,
+"Transparency": [
+[
+0.0,
+1.0,
+0.0
+],
+[
+0.5031,
+0.0,
+0.0
+],
+[
+1.0,
+1.0,
+0.0
+]
+],
+"VelocityInheritance": 0.0,
+"WindAffectsDrag": false,
+"ZOffset": 0.0,
+"_class": "ParticleEmitter",
+"_path": "PDS' Particles & Models Kit/PDS Models Pack for BSED:R/Presets/Samples/SampleOre/Hitbox/CloverEffect/Clover",
+"_ref": 16228
+},
+{
+"Acceleration": [
+0.0,
+-0.5,
+0.0
+],
+"AttributesSerialize": "",
+"Brightness": 10.0,
+"Color": [
+[
+0.0,
+0.9176,
+1.0,
+0.1608,
+0.0
+],
+[
+1.0,
+0.9176,
+1.0,
+0.1608,
+0.0
+]
+],
+"DefinesCapabilities": false,
+"Drag": 0.0,
+"EmissionDirection": 1,
+"Enabled": true,
+"FlipbookBlendFrames": true,
+"FlipbookFramerate": [
+1.0,
+1.0
+],
+"FlipbookIncompatible": "Particle texture must be 1024 by 1024 to use flipbooks.",
+"FlipbookLayout": 0,
+"FlipbookMode": 0,
+"FlipbookSizeX": 1,
+"FlipbookSizeY": 1,
+"FlipbookStartRandom": false,
+"Lifetime": [
+1.0,
+2.0
+],
+"LightEmission": 1.0,
+"LightInfluence": 0.0,
+"LockedToPart": false,
+"Name": "Particles",
+"Orientation": 2,
+"Rate": 30.0,
+"RotSpeed": [
+0.0,
+0.0
+],
+"Rotation": [
+90.0,
+90.0
+],
+"SerializedOverrides": "",
+"Shape": 1,
+"ShapeInOut": 0,
+"ShapePartial": 1.0,
+"ShapeStyle": 0,
+"Size": [
+[
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+0.113,
+0.113
+]
+],
+"Speed": [
+3.0,
+4.0
+],
+"SpreadAngle": [
+0.0,
+0.0
+],
+"Squash": [
+[
+0.0,
+1.0,
+0.0
+],
+[
+1.0,
+1.0,
+0.0
+]
+],
+"Texture": "rbxassetid://7216855914",
+"TimeScale": 0.8,
+"Transparency": [
+[
+0.0,
+1.0,
+0.0
+],
+[
+0.5031,
+0.0,
+0.0
+],
+[
+1.0,
+1.0,
+0.0
+]
+],
+"VelocityInheritance": 0.0,
+"WindAffectsDrag": false,
+"ZOffset": 0.0,
+"_class": "ParticleEmitter",
+"_path": "PDS' Particles & Models Kit/PDS Models Pack for BSED:R/Presets/Samples/SampleOre/Hitbox/CloverEffect/Particles",
+"_ref": 16229
+}
+]

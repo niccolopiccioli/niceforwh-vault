@@ -1,0 +1,10 @@
+### Duplicati (baseline, file non vuoti, per SHA1)
+| | |
+|---|---|
+| gruppi di file identici | 4620 |
+| copie in più trovate | 4783 (217 MB) |
+| rimosse | 71 |
+| tenute apposta: almeno una copia sta dentro un progetto intatto (vault fwjelaa, tool), che non si smonta | 4712 |
+| tenute fuori dai progetti (README, LICENSE, note .md con lo stesso testo in pack diversi) | 0 |
+
+Elenco completo gruppo per gruppo: `_data/duplicati.csv`.
